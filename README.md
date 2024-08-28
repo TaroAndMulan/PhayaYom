@@ -31,3 +31,9 @@ I’ve carefully engineered PhayaYom with specific strengths and weaknesses. Try
   <img src="https://github.com/user-attachments/assets/5b1eb4f2-ecdf-40dc-8ba3-27cc9f9c49ab" alt="PhayaYom Game Screenshot3">
 </p>
 <p align="center"><i>Figure 3: The battle outcome is determine by LLM </i></p>
+
+  <img src="https://github.com/user-attachments/assets/0acc753c-2c3c-44fe-9da0-baeed9733fab" alt="PhayaYom Game Screenshot3">
+</p>
+<p align="center"><i>Figure 4: It's not easy to beat this demon, even naruto fail </i></p>
+
+
